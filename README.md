@@ -1,3 +1,6 @@
+[![Build Status](https://scrutinizer-ci.com/g/opus-online/yii2-state/badges/build.png?b=master)](https://scrutinizer-ci.com/g/opus-online/yii2-state/build-status/master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/opus-online/yii2-state/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/opus-online/yii2-state/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/opus-online/yii2-state/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/opus-online/yii2-state/?branch=master)
 
 Persistent state extension for Yii2 modules and applications
 =========

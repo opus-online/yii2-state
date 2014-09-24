@@ -1,12 +1,12 @@
 {
-    "name": "opus-online/yii2-base",
-    "description": "Base components used by projects and modules",
+    "name": "opus-online/yii2-state",
+    "description": "Persistent state extension for Yii2 modules and applications",
     "licence": "MIT",
     "type": "yii2-extension",
-    "homepage": "https://github.com/opus-online/yii2-base/",
+    "homepage": "https://github.com/opus-online/yii2-state/",
     "support": {
-        "issues": "https://github.com/opus-online/yii2-base/issues",
-        "source": "https://github.com/opus-online/yii2-base/"
+        "issues": "https://github.com/opus-online/yii2-state/issues",
+        "source": "https://github.com/opus-online/yii2-state/"
     },
     "authors": [
         {
