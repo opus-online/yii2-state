@@ -1,0 +1,29 @@
+{
+    "name": "opus-online/yii2-base",
+    "description": "Base components used by projects and modules",
+    "licence": "MIT",
+    "type": "yii2-extension",
+    "homepage": "https://github.com/opus-online/yii2-base/",
+    "support": {
+        "issues": "https://github.com/opus-online/yii2-base/issues",
+        "source": "https://github.com/opus-online/yii2-base/"
+    },
+    "authors": [
+        {
+            "name": "Ivo Kund",
+            "email": "ivo@opus.ee"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "opus\\base\\": "src"
+        }
+    }
+}
