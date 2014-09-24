@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "opus\\base\\": "src"
+            "opus\\state\\": "src"
         }
     }
 }
